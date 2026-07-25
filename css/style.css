@@ -833,7 +833,7 @@ h3 { font-size: 22px; }
 
 @media (max-width: 720px) {
   .container {
-    padding: 0 28px;
+    padding: 0 16px;
   }
 
   .nav {
@@ -885,7 +885,7 @@ h3 { font-size: 22px; }
 
   .nav-links a {
     width: 100%;
-    padding: 16px 28px;
+    padding: 16px;
     border-bottom: 1px solid var(--border);
   }
 
